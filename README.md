@@ -90,7 +90,7 @@ Firebase Analytics, Crashlytics, Cloud Messaging, Firestore
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OzlemBalikci&show_icons=true&theme=default" alt="Özlem's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OzlemBalikci&show_icons=true&theme=default" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OzlemBalikci" alt="Özlem's GitHub streak stats" height="165"/>
 </p>
 
