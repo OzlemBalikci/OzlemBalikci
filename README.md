@@ -1,5 +1,5 @@
 <h1 align="center">Özlem Balıkçı</h1>
-<h3 align="center">Flutter & Mobile Application Developer | Software Engineering Graduate</h3>
+<h3 align="center">Flutter & Android Mobile Application Developer | Software Engineering Graduate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ozlembalikci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -83,6 +83,7 @@ Firebase Analytics, Crashlytics, Cloud Messaging, Firestore
 **Tools & Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
