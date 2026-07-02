@@ -60,7 +60,7 @@ A multi-label deep learning classification model for detecting multiple retinal 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android Development](https://developer.android.com/develop?gclsrc=aw.ds&gad_source=1&gad_campaignid=21831783747&gbraid=0AAAAAC-IOZnE4Cv82lgZCRyMLm0amiooZ&gclid=CjwKCAjwmJjSBhB-EiwAkZgxixV9hRKU61Ni6c9RL44XoyNEP7VBCgGC0nmZTu6Q_5U3a8FBEnJIcxoCEPUQAvD_BwE&hl=tr)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **State Management**
 BLoC/Cubit · Provider · Riverpod
