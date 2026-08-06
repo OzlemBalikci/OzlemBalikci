@@ -45,12 +45,6 @@ A cross-platform (Android/iOS) mobile application focused on environmental aware
 - Automated code generation with Freezed, json_serializable, auto_route, and injectable for type-safe navigation and dependency injection
 - Responsive, consistent UI using flutter_screenutil and a custom theme system; local data management with Hive, SharedPreferences, and flutter_secure_storage
 
-### Deep Learning Based Retinal Disease Classification System *(2025)*
-A multi-label deep learning classification model for detecting multiple retinal diseases from fundus images.
-- Trained and compared ResNet50 and DenseNet121 using transfer learning with pre-trained ImageNet weights
-- Applied preprocessing and data augmentation techniques (resizing, normalization, flipping, rotation) to improve generalization
-- Addressed class imbalance using weighted BCEWithLogitsLoss; evaluated performance with accuracy, precision, recall, and F1-score
-
 ---
 
 ## Technical Skills
