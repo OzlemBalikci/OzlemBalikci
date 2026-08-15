@@ -36,17 +36,6 @@ Software Engineering graduate with a focus on mobile application development. I 
 
 ---
 
-## Projects
-
-### [Karbon AI — Flutter Mobile App](https://github.com/OzlemBalikci/Karbon-AI-Flutter-Mobile-App) *(2026)*
-A cross-platform (Android/iOS) mobile application focused on environmental awareness, built with Clean Architecture and a feature-first project structure.
-- Reactive state management with BLoC/Cubit, including custom selector patterns to prevent unnecessary widget rebuilds
-- Firebase Analytics, Crashlytics, and Cloud Messaging integration; RESTful API communication and cookie-based session management using Dio
-- Automated code generation with Freezed, json_serializable, auto_route, and injectable for type-safe navigation and dependency injection
-- Responsive, consistent UI using flutter_screenutil and a custom theme system; local data management with Hive, SharedPreferences, and flutter_secure_storage
-
----
-
 ## Technical Skills
 
 **Mobile Development**
