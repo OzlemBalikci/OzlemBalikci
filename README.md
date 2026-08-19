@@ -14,27 +14,9 @@
 Software Engineering graduate with a focus on mobile application development. I have built and shipped real-world Flutter projects, with an emphasis on clean architecture, scalable state management, and maintainable code. Comfortable working in international, fast-paced environments, with strong communication skills and advanced English proficiency.
 
 - 🎓 B.Sc. in Software Engineering, Burdur Mehmet Akif Ersoy University (2022–2026), GPA: 3.17/4.00
-- 📱 Specialized in Flutter/Dart mobile development, with experience in Native Android and Kotlin
+- 📱 Specialized in Flutter/Dart mobile development, with experience in Native Android and Kotlin also backend development in java and Spring Boot
 - 🔧 Practical experience with Clean Architecture, BLoC/Cubit, Riverpod, and REST API integration
 - 📍 Based in İzmir, Türkiye
-
----
-
-## Professional Experience
-
-**Flutter Developer Intern** — İzmir İnovasyon ve Teknoloji A.Ş. *(Feb 2026 – May 2026)*
-- Developed the end-to-end mobile application of a carbon footprint tracking platform (Karbon AI) using Flutter
-- Implemented scalable state management using BLoC and Riverpod across ~13 application features
-- Integrated REST APIs built with .NET for real-time data processing and user-specific carbon footprint calculations
-- Implemented Firebase services (Analytics and backend integrations) for tracking user behavior and app performance
-- Contributed to a system calculating users' carbon footprint from daily/monthly inputs, mapped to environmental impact metrics (tree planting)
-
-**Flutter Developer Intern** — HUBX *(Jul 2025 – Sep 2025)*
-- Developed two payment screens for the Note.AI app based on Figma designs, implementing state management with the BLoC architecture
-- Handled backend operations via Firebase Remote Config
-- Managed in-app purchases using the Adapty platform
-
----
 
 ## Technical Skills
 
@@ -45,13 +27,10 @@ Software Engineering graduate with a focus on mobile application development. I 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**State Management**
-BLoC/Cubit · Provider · Riverpod
-
 **Backend Development**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet)
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -62,7 +41,7 @@ BLoC/Cubit · Provider · Riverpod
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-Firebase Analytics, Crashlytics, Cloud Messaging, Firestore
+![AWS](https://shields.io)
 
 **Tools & Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
