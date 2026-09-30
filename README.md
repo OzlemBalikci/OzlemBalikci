@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Özlem%20Balıkçı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Flutter%20%26%20Backend%20Developer&descSize=18&descAlignY=60" width="100%"/>
+  <img src="./assets/header.svg" width="100%" alt="Özlem Balıkçı"/>
 </p>
 
 <p align="center">
@@ -114,5 +114,5 @@ Users upload documents that are parsed, chunked and embedded in the background. 
 📧 balikciozlem.381@gmail.com  ·  💼 [LinkedIn](https://www.linkedin.com/in/ozlembalikci/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" alt=""/>
 </p>
