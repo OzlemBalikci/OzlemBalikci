@@ -62,10 +62,12 @@ Software Engineering graduate who builds mobile apps and the backend systems beh
     <td align="center"><b>DevOps & Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,github&theme=dark"/></td>
   </tr>
-  <tr>
-    <td align="center"><b>Other Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python/></td>
-  </tr>
+ <tr>
+  <td align="center"><b>Other Languages</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+  </td>
+</tr>
 </table>
 
 <br/>
