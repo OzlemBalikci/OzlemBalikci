@@ -64,7 +64,7 @@ Software Engineering graduate who builds mobile apps and the backend systems beh
   </tr>
   <tr>
     <td align="center"><b>Other Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cs/></td>
+    <td><img src="https://skillicons.dev/icons?i=python/></td>
   </tr>
 </table>
 
